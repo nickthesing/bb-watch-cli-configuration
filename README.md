@@ -21,3 +21,13 @@ watcher({
 	port: number // (default: 7777) port number for portal on localhost
 });
 ```
+
+## After customizations
+
+Use npm link to make the bb-watch global available. 
+
+	$ npm link 
+	
+Go to folder where you want to watch for file changes.
+
+	$ bb-watch
