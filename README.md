@@ -3,6 +3,10 @@ CLI tool with configuration for Backbase watcher
 
 ----------
 
+## Usage
+
+Clone, fork or download this repo. Make changes, add configuration or do stuff. 
+
 ## Example
 
 ```javascript
