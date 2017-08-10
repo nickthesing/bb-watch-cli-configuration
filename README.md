@@ -3,9 +3,13 @@ CLI tool with configuration for Backbase watcher
 
 ----------
 
+## Pre usage
+
+Clone [bb-watch](https://www.github.com/nickthesing/bb-watch) into a folder somewhere.
+
 ## Usage
 
-Clone, fork or download this repo. Make changes, add configuration or do stuff. 
+Clone, fork or download this repo at the same level of bb-watch. Make changes to the index.js file, add your own configuration or do other stuff. 
 
 ## Example
 
